@@ -7,6 +7,6 @@ Account Abstraction, Crypto x AI, Autonomous Worlds, Metagovernance, Experimenta
 Biohacking & Quantified Self, Slow-Nomadism, Pan-Mysticism.<br>
 
 - **Thoughts that shaped me** <br>
-Stoicism, Zen, Daoism, and the Upanishads. Joseph Campbell’s hero’s journey. <br>
-Karl Marx's emancipation theory. Byung-Chul Han’s critiques of hyperculture. <br>
+Stoicism, Zen, Daoism, and the Upanishads. Joseph Campbell’s Hero’s Journey. <br>
+Karl Marx's Emancipation theory. Byung-Chul Han’s Critiques of Hyperculture. <br>
 Transhumanism & Cypherpunk. The Sovereign Individual, Nick Szabo, and Satoshi Nakamoto.
