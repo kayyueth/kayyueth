@@ -1,5 +1,5 @@
 Hacking the money construct - with a jet-lagged brain, a bio-hacked body, and a barely functioning laptop 👩🏻‍💻
-
+***
 - **Good things I’m looking into** <br>
 Account Abstraction, Crypto x AI, Autonomous Worlds, Metagovernance, Experimental Society & Radical Markets. <br>
 
